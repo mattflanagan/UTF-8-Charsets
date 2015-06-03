@@ -1,0 +1,13 @@
+<appian-plugin name="Charsets" key="com.appian.charsets">
+
+  <plugin-info>
+    <description>Charsets</description>
+    <vendor name="Appian Corporation" url="http://www.appian.com" />
+    <version>1.0.0</version>
+    <application-version min="6.1.0" />
+  </plugin-info>
+
+  <charset key="java7_UTF_8" class="com.appian.charsets.Java7_UTF_8" />
+  <charset key="java8_UTF_8" class="com.appian.charsets.Java8_UTF_8" />
+
+</appian-plugin>
